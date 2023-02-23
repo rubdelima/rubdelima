@@ -12,3 +12,6 @@
 - ⏩ HTML
 - #️⃣ CSS
 - 🟡JavaScript
+
+### Principais Linguagens no Repositório
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=rubdelima&layout=compact&count_private=true)
