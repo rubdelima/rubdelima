@@ -1,16 +1,14 @@
-### Hi there 👋
+# Olá, Bem Vindo aos meus repositórios 👋
 
-<!--
-**rubdelima/rubdelima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Quem eu sou?
+- 📔 Estudante de Ciência da Computação na UFPE
 
-Here are some ideas to get you started:
+### Linguagens Princiapis
+- 🐍 Python
+- ➕ C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Aprendendo as linguagens:
+- ☕ Java
+- ⏩ HTML
+- #️⃣ CSS
+- 🟡JavaScript
